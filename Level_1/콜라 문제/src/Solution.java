@@ -5,12 +5,12 @@ class Solution {
         while(true){
             if(num >= a){
                 if(num%a == 0){
-                    num = num/a;
-                    answer += num * b;
+                    answer += num/a * b;
+                    num = num/a * b;
                 }
                 else{
                     answer += (num/a) * b;
-                    num = num/a + num%a;
+                    num = (num/a) * b + num%a;
                 }
             }
             else{
