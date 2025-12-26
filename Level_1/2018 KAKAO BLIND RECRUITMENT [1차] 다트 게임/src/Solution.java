@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Solution {
-    public int solution(String dartResult) {
+    public int Solution(String dartResult) {
         int[] score = new int[3];
         int idx = -1;
 
