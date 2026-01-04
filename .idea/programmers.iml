@@ -37,6 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/[PCCE 기출문제] 데이터 분석/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/2023 KAKAO BLIND RECRUITMENT 개인정보 수집 유효기간/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/2022 KAKAO BLIND RECRUITMENT 신고 결과 받기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_1/나머지가 1이 되는 수 찾기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
