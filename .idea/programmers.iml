@@ -42,6 +42,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/부족한 금액 계산하기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/없는 숫자 더하기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/2021 카카오 채용연계형 인턴십 숫자 문자열과 영단어/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_1/월간 코드 챌린지 시즌2 약수의 개수와 덧셈/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
