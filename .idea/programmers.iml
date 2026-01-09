@@ -45,6 +45,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/월간 코드 챌린지 시즌2 약수의 개수와 덧셈/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/웹 백엔드 개발자(상반기) 로또의 최고 순위와 최저 순위/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/해시 완주하지 못한 선수/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_1/해시 전화번호 목록/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/해시 폰켓몬/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
