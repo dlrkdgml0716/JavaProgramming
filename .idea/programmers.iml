@@ -57,6 +57,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/월간 코드 챌린지 시즌1 내적/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/월간 코드 챌린지 시즌1 3진법 뒤집기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/월간 코드 챌린지 시즌1 두 개 뽑아서 더하기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_1/2020 카카오 인턴십 키패드 누르기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
