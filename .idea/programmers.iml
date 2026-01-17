@@ -65,6 +65,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/완전탐색 모의고사/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/연습문제 x만큼 간격이 있는 n개의 숫자/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/연습문제 직사각형 별찍기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_1/연습문제 핸드폰 번호 가리기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/연습문제 행렬의 덧셈/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
