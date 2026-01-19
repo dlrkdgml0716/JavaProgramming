@@ -68,6 +68,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/연습문제 핸드폰 번호 가리기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/연습문제 행렬의 덧셈/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/2025 프로그래머스 코드챌린지 2차 예선 서버 증설 횟수/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_1/연습문제 하샤드 수/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
