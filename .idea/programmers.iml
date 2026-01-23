@@ -74,6 +74,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/연습문제 콜라츠 추측/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/스택-큐 올바른 괄호/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/스택-큐 같은 숫자는 싫어/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/스택-큐 주식가격/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
