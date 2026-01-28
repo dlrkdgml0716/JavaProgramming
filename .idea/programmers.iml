@@ -85,6 +85,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/쇠막대기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/Stack2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/에디터/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/단어 뒤집기2/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
