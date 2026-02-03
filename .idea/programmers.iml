@@ -96,6 +96,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/아파트/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/도키도키 간식드리미/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/Calling All Programmers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/Musical Chairs/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
