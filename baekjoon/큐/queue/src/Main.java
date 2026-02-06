@@ -6,6 +6,7 @@ public class Main{
         Deque<Integer> queue = new ArrayDeque<>();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int chance = Integer.parseInt(br.readLine());
+        StringBuilder sb = new StringBuilder();
 
         for(int i = 0; i < chance; i++){
             StringTokenizer st = new StringTokenizer(br.readLine());
@@ -15,27 +16,28 @@ public class Main{
                     queue.add(Integer.parseInt(st.nextToken()));
                     break;
                 case "pop":
-                    if(!queue.isEmpty()) System.out.println(queue.poll());
-                    else System.out.println(-1);
+                    if(!queue.isEmpty()) sb.append(queue.poll()).append("\n");
+                    else sb.append(-1).append("\n");
                     break;
                 case "size":
-                    System.out.println(queue.size());
+                    sb.append(queue.size()).append("\n");
                     break;
                 case "empty":
-                    if(!queue.isEmpty()) System.out.println(0);
-                    else System.out.println(1);
+                    if(!queue.isEmpty()) sb.append(0).append("\n");
+                    else sb.append(1).append("\n");
                     break;
                 case "front":
-                    if(!queue.isEmpty()) System.out.println(queue.peek());
-                    else System.out.println(-1);
+                    if(!queue.isEmpty()) sb.append(queue.peek()).append("\n");
+                    else sb.append(-1).append("\n");
                     break;
                 case "back":
-                    if(!queue.isEmpty()) System.out.println(queue.peekLast());
-                    else System.out.println(-1);
+                    if(!queue.isEmpty()) sb.append(queue.peekLast()).append("\n");
+                    else sb.append(-1).append("\n");
                     break;
                 default:
                     break;
             }
         }
+        System.out.print(sb);
     }
 }
