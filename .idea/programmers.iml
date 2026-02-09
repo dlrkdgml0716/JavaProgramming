@@ -109,6 +109,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/안정적인 문자열/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/Router/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/앵무새/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/괄호 끼어넣기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
