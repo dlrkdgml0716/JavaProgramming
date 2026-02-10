@@ -112,6 +112,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/괄호 끼어넣기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/기념품/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/주차장/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/화학식량/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
