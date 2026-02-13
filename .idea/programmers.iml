@@ -117,6 +117,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/천재 수학자 성필/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/알파벳 블록/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/북극곰은 괄호를 찢어/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/상어 키우기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
