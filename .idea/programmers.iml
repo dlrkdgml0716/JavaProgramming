@@ -122,6 +122,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/회전초밥/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/Star in Parentheses/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/The Deeper, The Better/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/K 물류창고/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/식당 메뉴/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
