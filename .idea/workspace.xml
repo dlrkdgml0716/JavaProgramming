@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f2763a-e36d-4520-a08d-20e49eb30996" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/baekjoon/큐/K 물류창고/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/programmers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/programmers.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
