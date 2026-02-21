@@ -130,6 +130,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/기능개발/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/다리를 지나는 트럭/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/프로세스/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/I LOVE JavaScript/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
