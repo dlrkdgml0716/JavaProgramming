@@ -132,6 +132,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/프로세스/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/I LOVE JavaScript/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/연속 부분 수열 합의 개수/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/Best Parenthesis/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/퍼시스턴트 스택/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
