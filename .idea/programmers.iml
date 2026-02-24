@@ -135,6 +135,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/Best Parenthesis/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/스택/퍼시스턴트 스택/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/N번째 큰 수/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/최소 힙/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
