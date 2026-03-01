@@ -139,6 +139,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/최대 힙/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/최소 힙/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/[PCCP 기출문제] 2번 퍼즐 게임 챌린지/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/비밀 코드 해독/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_3/베스트앨범/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
