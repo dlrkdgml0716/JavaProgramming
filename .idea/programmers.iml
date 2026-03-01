@@ -138,6 +138,7 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/절댓값 힙/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/최대 힙/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon/큐/최소 힙/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_3/베스트앨범/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
