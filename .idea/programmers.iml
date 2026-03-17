@@ -151,6 +151,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/이상한 문자 만들기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/가운데 글자 가져오기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/문자열 내림차순으로 배치하기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_1/수박수박수박수박수/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/제일 작은 수 제거하기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
