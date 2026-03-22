@@ -157,6 +157,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/문자열 내 p와 y의 개수/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/서울에서 김서방 찾기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/문자열을 정수로 바꾸기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_1/약수의 합/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/짝수와 홀수/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
