@@ -163,6 +163,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/정수 제곱근 판별/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_1/짝수와 홀수/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/뒤에 있는 큰 수 찾기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/할인 행사/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
