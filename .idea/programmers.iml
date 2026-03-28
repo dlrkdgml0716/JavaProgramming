@@ -164,6 +164,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_1/짝수와 홀수/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/뒤에 있는 큰 수 찾기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/할인 행사/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/JadenCase 문자열 만들기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/최댓값과 최솟값/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
