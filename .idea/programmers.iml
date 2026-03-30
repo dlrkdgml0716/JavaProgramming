@@ -168,6 +168,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_2/최댓값과 최솟값/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/이진 변환 반복하기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/최솟값 만들기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/다음 큰 숫자/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/숫자의 표현/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
