@@ -170,6 +170,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_2/최솟값 만들기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/다음 큰 숫자/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/숫자의 표현/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/피보나치 수/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
