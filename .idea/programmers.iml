@@ -176,6 +176,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_3/디스크 컨트롤러/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/타겟 넘버/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_3/네트워크/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/게임 맵 최단거리/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
