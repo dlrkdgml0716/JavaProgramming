@@ -181,6 +181,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_2/조이스틱/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/큰 수 만들기" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/구명보트/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_3/섬 연결하기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
