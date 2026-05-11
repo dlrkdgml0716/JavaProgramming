@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e7f2763a-e36d-4520-a08d-20e49eb30996" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/programmers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/programmers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Level_3/단속 카메라/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Level_3/단속 카메라/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level_2/큰 수 만들기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Level_2/큰 수 만들기/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,11 @@
     &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\programmers\Level_2\큰 수 만들기\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
