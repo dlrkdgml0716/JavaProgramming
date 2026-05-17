@@ -186,6 +186,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_2/큰 수 만들기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_3/단어 변환/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_3/여행경로/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/소수 찾기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
