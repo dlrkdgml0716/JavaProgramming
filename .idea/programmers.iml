@@ -195,6 +195,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_2/튜플/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/[1차] 뉴스 클러스터링/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/k진수에서 소수 개수 구하기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/[3차] n진수 게임/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
