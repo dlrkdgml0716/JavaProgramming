@@ -197,6 +197,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_2/k진수에서 소수 개수 구하기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/[3차] n진수 게임/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/[3차] 압축/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/주차 요금 계산/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
