@@ -204,6 +204,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_3/불량 사용자/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_3/보석 쇼핑/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/규칙에 맞는 이진수 만들기 (Small)/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/동아리 회장 선거/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/블럭 채우기 1 (Small)/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
