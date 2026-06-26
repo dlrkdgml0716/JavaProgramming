@@ -203,6 +203,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Level_2/두 큐 합 같게 만들기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_3/불량 사용자/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_3/보석 쇼핑/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/규칙에 맞는 이진수 만들기 (Small)/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
