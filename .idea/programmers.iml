@@ -209,6 +209,7 @@
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/예산 관리/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/RGB 거리/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/벽장문의 이동/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/극장 좌석 배치 1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/네모네모 로직/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
