@@ -217,6 +217,7 @@
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/0 만들기 게임/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/숏다리의 계단 오르기 (Small)/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/일곱 난쟁이/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/좋은 수열/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
