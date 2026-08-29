@@ -223,6 +223,7 @@
       <sourceFolder url="file://$MODULE_DIR$/codeUp/백트래킹/리모컨/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/선인장숨기기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_2/카카오프렌즈 컬러링북/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Level_2/3 x n 타일링/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
