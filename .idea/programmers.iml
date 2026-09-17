@@ -231,6 +231,7 @@
       <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/학급 편성/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/동물원/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/스티커/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/극장 좌석/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
