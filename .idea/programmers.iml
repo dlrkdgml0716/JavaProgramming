@@ -237,6 +237,7 @@
       <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/동전 줍기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/사다리타기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/합의 개수/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/연속 부분 최대곱/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
