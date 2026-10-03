@@ -241,6 +241,7 @@
       <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/오르막 수/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codeUp/dynamic programming/LIS/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Level_3/N으로 표현/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/level_4/사칙연산/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
