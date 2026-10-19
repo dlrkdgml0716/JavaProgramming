@@ -246,6 +246,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/백만 장자 프로젝트/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/달팽이 숫자/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/최빈수 구하기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/파리 퇴치/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
