@@ -249,6 +249,7 @@
       <sourceFolder url="file://$MODULE_DIR$/파리 퇴치/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/간단한 369게임/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/어디에 단어가 들어갈 수 있을까/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/Base64 Decoder/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
