@@ -251,6 +251,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/어디에 단어가 들어갈 수 있을까/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/Base64 Decoder/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/숫자 배열 회전/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/스도쿠 검증/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
