@@ -254,6 +254,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/스도쿠 검증/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/조교의 성적 매기기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/파스칼의 삼각형/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/두 개의 숫자열/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
