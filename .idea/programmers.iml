@@ -259,6 +259,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/초심자의 회문 검사/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/쉬운 거스름돈/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/중간 평균값 구하기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/View/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
