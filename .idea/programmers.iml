@@ -264,6 +264,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/햄버거 다이어트/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/Flatten/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/N-Queen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/농작물 수확하기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
