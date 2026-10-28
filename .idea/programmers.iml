@@ -267,6 +267,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/농작물 수확하기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/Magnetic/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/Sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/암호생성기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
