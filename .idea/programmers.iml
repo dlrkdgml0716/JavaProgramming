@@ -246,7 +246,6 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/백만 장자 프로젝트/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/달팽이 숫자/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/최빈수 구하기/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/파리 퇴치/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/간단한 369게임/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/어디에 단어가 들어갈 수 있을까/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D2/Base64 Decoder/src" isTestSource="false" />
@@ -268,6 +267,8 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/Magnetic/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/Sum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/암호생성기/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/단순 2진 암호코드/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/파리 퇴치/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
