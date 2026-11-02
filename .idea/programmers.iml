@@ -274,6 +274,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/상호의 배틀필드/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/String/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/암호문1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/전기버스/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
