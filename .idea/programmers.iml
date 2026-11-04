@@ -277,6 +277,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/전기버스/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/진기의 최고급 붕어빵/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/재미있는 오셀로 게임/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/최장 경로/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
