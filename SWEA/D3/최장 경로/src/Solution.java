@@ -9,10 +9,6 @@ public class Solution{
         for(int i = 1; i <= T; i++){
             int N = sc.nextInt();
             int M = sc.nextInt();
-            if(M == 0) {
-                System.out.println("#" + i + " " + 1);
-                continue;
-            }
 
             max = 0;
             int[][] map = new int[N+1][N+1];
