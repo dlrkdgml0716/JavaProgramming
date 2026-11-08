@@ -286,6 +286,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/오목 판정/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/퍼펙트 셔플/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/삼성시의 버스 노선/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/제곱수 만들기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
