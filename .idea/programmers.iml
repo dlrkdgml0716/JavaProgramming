@@ -284,6 +284,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/한빈이와 Spot Mart/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/GNS/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/오목 판정/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/퍼펙트 셔플/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
