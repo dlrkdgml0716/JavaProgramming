@@ -293,6 +293,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/프리셀 통계/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/합과 곱/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/최대 조작 횟수/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/명진이와 동휘의 숫자 맞추기/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
