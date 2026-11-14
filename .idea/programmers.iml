@@ -296,6 +296,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/명진이와 동휘의 숫자 맞추기/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/무한 사전/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/이진 문자열 복원/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/홍준이의 숫자놀이/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
