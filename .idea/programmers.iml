@@ -302,6 +302,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/교환학생/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/정곤이의 단조 증가하는 수/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/숫자 조작/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/최장 증가 부분 수열/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
