@@ -299,6 +299,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/이진 문자열 복원/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/홍준이의 숫자놀이/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/0,1 Knapsack/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/교환학생/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
