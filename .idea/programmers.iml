@@ -310,6 +310,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/높은 곳으로/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/식료품 가게/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/정사각형 판정/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/상원이의 연속 합/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
