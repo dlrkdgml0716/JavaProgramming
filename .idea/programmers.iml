@@ -313,6 +313,8 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/상원이의 연속 합/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/승현이의 수학공부/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/최장 공통 부분 수열/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/톱니바퀴 연구소/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/비밀번호 복원/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
