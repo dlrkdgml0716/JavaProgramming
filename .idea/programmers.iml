@@ -319,6 +319,8 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D4/비밀 연구실의 회전 장치/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D4/연구원 배치 계획/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA/D4/고장 난 시계탑/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D3/지하 탐사 로봇/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SWEA/D4/격리 구역/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

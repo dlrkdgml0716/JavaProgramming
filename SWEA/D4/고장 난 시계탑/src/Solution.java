@@ -5,7 +5,7 @@ public class Solution{
     static int[][] fixState;
     static int[] row = {0, -1, 0, 1};
     static int[] col = {-1, 0, 1, 0};
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
 
